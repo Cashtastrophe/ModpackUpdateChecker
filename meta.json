@@ -3,12 +3,11 @@
     "hotfixesFormat": null,
     "versions": [
       {
-        "id": "v0.0.4",
+        "id": "v0.0.8",
         "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded/files/all?page=1&pageSize=20",
-                "generic": "https://example.com/"
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/minecraftreloaded",
             }
           }
       }
